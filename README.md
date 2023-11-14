@@ -12,5 +12,4 @@ You need to make sure it has access to all the channels you want it to be able t
 
 After that, anyone in the server will be able to add themselves to any of these channels by name using this syntax:
 
-```!addme name-of-text-channel-here
-```
+~~~!addme name-of-text-channel-here
