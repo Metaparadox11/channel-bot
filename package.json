@@ -1,0 +1,28 @@
+{
+  "name": "channel-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metaparadox11/channel-bot.git"
+  },
+  "keywords": [],
+  "author": "Olivia Montoya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Metaparadox11/channel-bot/issues"
+  },
+  "engines": {
+    "node": "12.18.3",
+    "npm": "6.14.6"
+  },
+  "homepage": "https://github.com/Metaparadox11/channel-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^8.6.0"
+  }
+}
