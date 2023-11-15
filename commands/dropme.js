@@ -32,6 +32,6 @@ module.exports = {
         if (!rolePermissions.has(PermissionsBitField.Flags.ViewChannel)) {
             return message.reply('You need to specify a spoiler channel.');
         }
-        await channel.permissionOverwrites.delete(message.member)
+        await channel.permissionOverwrites.delete(message.member);
     }
 }
